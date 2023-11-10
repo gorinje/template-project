@@ -1,5 +1,7 @@
-title: Mon Site de Projet
-description: Description du site de mon projet
+title: Doc Projet
+description: Documentation du projet
+
+# NE RIEN MODIFIER CI-DESSOUS SI VOUS N'ETES PAS CERTAINS DE CE QUE VOUS FAITES
 
 # Thème
 remote_theme: pmarsceill/just-the-docs
@@ -9,6 +11,10 @@ just_the_docs:
   navigation_depth: 5
   search_enabled: true
   search_indexing: true
+  footer_content: "Copyright MakerSpace <a href="Makerspace-amiens.fr">UniLaSalle Amiens</a>"
+  mermaid:
+    version: "9.1.3"
+
 
 # Plugins
 plugins:
@@ -23,5 +29,3 @@ exclude:
   - vendor/cache
   - vendor/gems
   - vendor/ruby
-
-# Mettez d'autres configurations personnalisées ici
