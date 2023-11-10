@@ -1,0 +1,32 @@
+title: Mon Site de Projet
+description: Description du site de mon projet
+baseurl: "" # le sous-chemin de votre site, par exemple "/blog"
+url: "" # l'URL complète de votre site, par exemple "https://example.com"
+
+# Thème
+remote_theme: pmarsceill/just-the-docs
+
+# Paramètres optionnels de "Just the Docs"
+just_the_docs:
+  aux_links:
+    "GitHub":
+      - "https://github.com/username/repo"
+  navigation_depth: 5
+  search_enabled: true
+  search_indexing: true
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle
+  - vendor/cache
+  - vendor/gems
+  - vendor/ruby
+
+# Mettez d'autres configurations personnalisées ici
