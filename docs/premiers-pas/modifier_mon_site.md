@@ -1,6 +1,6 @@
 ---
 layout: home
-nav_order: 3
+nav_order: 2
 title: Modifier Votre Site Jekyll sur GitHub
 ---
 
@@ -21,7 +21,7 @@ Ce guide explique comment modifier votre site Jekyll, utilisant le thème "Just 
 ## Étape 3 : Modifier le Fichier
 
 1. Une fois que vous avez ouvert le fichier, cliquez sur l'icône de crayon (🖉) en haut à droite du fichier pour commencer à éditer.
-2. Effectuez vos modifications dans l'éditeur. Utilisez la syntaxe Markdown pour formater le texte. [(Voir syntaxe Markdown)](/markdown_cheatsheet).
+2. Effectuez vos modifications dans l'éditeur. Utilisez la syntaxe Markdown pour formater le texte. [(Voir syntaxe Markdown)](markdown_cheatsheet).
 
 ## Étape 4 : Prévisualiser Vos Changements
 
