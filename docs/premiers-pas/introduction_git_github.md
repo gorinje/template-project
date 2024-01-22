@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+parent: Premiers pas sur le template
 nav_order: 1
 title: Introduction à GitHub et Git
 ---

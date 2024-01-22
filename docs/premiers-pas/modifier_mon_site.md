@@ -1,5 +1,6 @@
 ---
 layout: home
+parent: Premiers pas sur le template
 nav_order: 2
 title: Modifier Votre Site Jekyll sur GitHub
 ---
