@@ -31,9 +31,3 @@ Dans ce repository, Jekyll est utilisé pour créer et gérer la documentation d
 ### Premiers Pas avec Jekyll
 
 Dans la section `docs` de ce repository, vous trouverez des informations et des guides sur la façon de modifier et de créer de nouveaux contenus pour votre documentation Jekyll. Que vous soyez un contributeur expérimenté ou un débutant, ces ressources vous aideront à prendre en main la gestion de votre site Jekyll.
-
-## Resources :
-
-- [Introduction à Git et GitHub](introduction_git_github)
-- [Comment modifier mon site en ligne](modifier_mon_site)
-- [CheatSheet Markdown](markdown_cheatsheet)
