@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Etapes de fabrication
-nav_order: 4
+nav_order: 6
 has_children: true
 ---
 
@@ -13,10 +13,10 @@ Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici
 
 Le processus de fabrication est divisé en plusieurs étapes clés :
 
-1. [Préparation des Matériaux](/preparation-materiaux)
-2. [Assemblage](/assemblage)
-3. [Finition](/finition)
-4. [Contrôle Qualité](/controle-qualite)
+1. [Préparation des Matériaux](etape_1)
+2. [Assemblage](etape_2)
+3. [Finition]()
+4. [Contrôle Qualité]()
 
 ## Commencer
 
