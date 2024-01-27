@@ -112,6 +112,22 @@ Pour un bloc de code, utilisez trois backticks `` ``` `` ou quatre espaces d'ind
 `Ceci est du code inline`
 ```
 
+*Exemple* :
+
+```cpp
+// Code Arduino pour faire clignoter une LED
+void setup() {
+  pinMode(13, OUTPUT); // Initialise la broche 13 en tant que sortie
+}
+
+void loop() {
+  digitalWrite(13, HIGH);   // Allume la LED
+  delay(1000);              // Attend une seconde
+  digitalWrite(13, LOW);    // Éteint la LED
+  delay(1000);              // Attend une seconde
+}
+```
+
 ## Lignes horizontales
 
 Utilisez trois ou plus de `*`, `-`, ou `_` pour créer une ligne horizontale.
