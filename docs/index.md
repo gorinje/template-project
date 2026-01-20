@@ -4,7 +4,7 @@ nav_order: 1
 title: Accueil
 ---
 
-# Bienvenue sur notre page de test
+# Bienvenue sur notre tutoriel git
 
 Bienvenue dans la documentation du projet XYZ. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
